@@ -36,5 +36,5 @@ This repository contains a comprehensive machine learning notebook that demonstr
 
 #### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/classifier-regression-analysis.git
+git clone https://github.com/lifesark/classifier-regression-analysis.git
 cd classifier-regression-analysis
