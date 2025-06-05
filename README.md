@@ -142,7 +142,7 @@ This project explores loan default prediction and amount forecasting using a com
 
 **Machine Learning Project by Vibhanshu Vaibhav
 
-> This work was done as part of an academic or personal project to explore predictive modeling techniques in finance and credit risk assessment.
+> This work was done as part of a personal project to explore predictive modeling techniques in finance and credit risk assessment.
 
 ---
 
