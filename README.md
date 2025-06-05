@@ -6,8 +6,7 @@ This project explores loan default prediction and amount forecasting using a com
 
 ## 📁 Project Structure
 
-- `classification_pipeline.py`: Classification models, scaling, PCA, grid search
-- `regression_pipeline.py`: Regression models, performance comparison
+- `classifier_and_regression_analysis.ipynb`: Classification models, scaling, PCA, grid search,Regression models, performance comparison, Cleaned dataset with feature-engineered variables
 - `loan_data.csv`: Cleaned dataset with feature-engineered variables
 - `README.md`: Project overview, methodology, and results
 
